@@ -12,7 +12,7 @@ This is a modern implementation of the popular game **2048**. The main feature o
 
 ## 📸 Screenshots and Audit
 <p align="center">
-  <img src="./src/images/reference.png" width="400" alt="2048 game image">
+  <img src="./src/images/reference.png" width="400" display="block" alt="2048 game image">
   <img src="./src/images/lighthouse-result.png" width="800" alt="Lighthouse Result">
 </p>
 
